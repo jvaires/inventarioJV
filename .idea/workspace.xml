@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a2b34f-0090-4de4-a710-b2e44583e451" name="Changes" comment="att">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
+    <list default="true" id="02a2b34f-0090-4de4-a710-b2e44583e451" name="Changes" comment="html">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/newItem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/uni7/tecnicas/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/uni7/tecnicas/controller/PessoaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/uni7/tecnicas/entities/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/uni7/tecnicas/entities/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/uni7/tecnicas/repository/FuncRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/uni7/tecnicas/repository/PessoaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +49,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="CSS File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,6 +69,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -119,7 +129,9 @@
       <workItem from="1661166668612" duration="142000" />
       <workItem from="1668455708173" duration="3499000" />
       <workItem from="1668771353978" duration="1984000" />
-      <workItem from="1669054254267" duration="5918000" />
+      <workItem from="1669054254267" duration="6497000" />
+      <workItem from="1669141098524" duration="2106000" />
+      <workItem from="1669144528642" duration="3667000" />
     </task>
     <task id="LOCAL-00001" summary="att">
       <created>1668462844381</created>
@@ -135,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668783466835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="html">
+      <created>1669067002342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669067002342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="att" />
-    <option name="LAST_COMMIT_MESSAGE" value="att" />
+    <MESSAGE value="html" />
+    <option name="LAST_COMMIT_MESSAGE" value="html" />
   </component>
 </project>
